@@ -1,8 +1,8 @@
 # I've joined the #100DaysOfCode Challenge.
 
 ## Patryk Adamczyk
-Repository to track my #100DaysOfCode : [GitHub: PatrykAdamczyk](https://github.com/PatrykAdamczyk/everyday-code)
-Twitter to track my #100DaysOfCode posts : [Twitter: @patrykadamczyk_](https://twitter.com/patrykadamczyk_)
+Repository to track my #100DaysOfCode : [GitHub: PatrykAdamczyk](https://github.com/PatrykAdamczyk/everyday-code)         
+Twitter to track my #100DaysOfCode posts : [Twitter: @patrykadamczyk_](https://twitter.com/patrykadamczyk_)       
 
 ## Contents
 * [Rules](rules.md)
