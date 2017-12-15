@@ -1,6 +1,5 @@
-# 100 Days Of Code - Log
 
-### Day 0: 15.12.2017
+### Day {DAY_NUMBER}: {DATE}
 
 **Today's Progress**: {WHAT IVE DONE}
 
