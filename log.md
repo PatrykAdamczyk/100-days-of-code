@@ -24,3 +24,12 @@
 5. [PAiP Web Build System - PyPi - pwbs 0.1.0.dev2](https://pypi.org/project/pwbs/0.1.0.dev2/)
 6. [PAiP Web Build System - PyPi - pwbs 0.2.0.dev1](https://pypi.org/project/pwbs/0.2.0.dev1/)
 7. [PAiP Web Build System - PyPi - pwbs 0.2.0.dev2](https://pypi.org/project/pwbs/0.2.0.dev2/)
+
+### Day 2: 17.12.2017
+
+**Today's Progress**: Tried think about my workflow and extensions to use in Visual Studio 2017 Enterprise and Visual Studio Code
+
+**Thoughts:** Find the best workflow
+
+**Link to work:**
+1. <repo>/work/D2/

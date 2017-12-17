@@ -1,0 +1,298 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-great-icons",
+    "files.insertFinalNewline": true,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideTabs": false,
+    "debug.showInStatusBar": "always",
+    "debug.inlineValues": true,
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "extensions.ignoreRecommendations": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.cursorBlinking": true,
+    "git.defaultCloneDirectory": "C:\\Users\\patry\\OneDrive\\Projects",
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "python.autoComplete.addBrackets": true,
+    "dateTime.padDays": true,
+    "dateTime.showDayOfMonth": true,
+    "dateTime.showDayOfWeek": true,
+    "dateTime.showMonth": true,
+    "dateTime.showSeconds": true,
+    "dateTime.customFormat": "dddd Do MMMM YYYY | HH:mm:ss.SSS (hh:mm A)",
+    "gitlens.statusBar.dateFormat": "dddd Do MMMM YYYY | HH:mm:ss.SSS (hh:mm A)",
+    "vsicons.presets.jsOfficial": true,
+    "vsicons.presets.jsonOfficial": true,
+    "vsicons.presets.tsOfficial": true,
+    "vsicons.projectDetection.autoReload": true,
+    "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "Windows Command Interpreter"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "PowerShell"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git Bash"
+        },
+        {
+            "shell": "C:\\Program Files\\Python37\\Scripts\\xonsh.bat",
+            "label": "XONSH"
+        },
+        {
+            "shell": "C:\\Program Files\\Python36\\python.exe",
+            "label": "Python 3.6 x64 Interactive Env"
+        },
+        {
+            "shell": "C:\\Program Files (x86)\\Python36-32\\python.exe",
+            "label": "Python 3.6 x86 Interactive Env"
+        },
+        {
+            "shell": "C:\\Program Files\\Python37\\python.exe",
+            "label": "Python 3.7 Interactive Env"
+        },
+        {
+            "shell": "C:\\Python27\\python.exe",
+            "label": "Python 2.7 x86 Interactive Env"
+        },
+        {
+            "shell": "C:\\Python27amd64\\python.exe",
+            "label": "Python 2.7 x64 Interactive Env"
+        },
+        {
+            "shell": "C:\\Program Files\\nodejs\\node.exe",
+            "label": "Node JS Interactive Env"
+        },
+        {
+            "shell": "C:\\Ruby24-x64\\bin\\ruby.exe",
+            "label": "Ruby Interactive Env"
+        },
+        {
+            "shell": "C:\\Users\\patry\\AppData\\Local\\Microsoft\\WindowsApps\\openSUSE-42.exe",
+            "label": "openSUSE 42.3"
+        },
+        {
+            "shell": "C:\\Users\\patry\\AppData\\Local\\Microsoft\\WindowsApps\\ubuntu.exe",
+            "label": "Ubuntu 16.04.3 LTS"
+        }
+        
+    ],
+    "todohighlight.keywords": [
+        {
+            "text": "NOTE:",
+            "color": "#ff0000",
+            "backgroundColor": "lightblue",
+            "overviewRulerColor": "lightblue"
+        },
+        {
+            "text": "DEBUG:",
+            "color": "#000",
+            "backgroundColor": "blue",
+            "overviewRulerColor": "blue"
+        },
+        {
+            "text": "DEV:",
+            "color": "#ff0000",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "FEATURE:",
+            "color": "#ff0000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "yellow"
+        },
+        {
+            "text": "BUG:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "NOT_IMPLEMENTED:",
+            "color": "#ff0000",
+            "backgroundColor": "orange",
+            "overviewRulerColor": "orange"
+        },
+        {
+            "text": "IMPLEMENTED:",
+            "color": "#00ff00",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "TEST:",
+            "color": "#ff0000",
+            "backgroundColor": "orange",
+            "overviewRulerColor": "orange"
+        },
+        {
+            "text": "TESTED:",
+            "color": "#000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "yellow"
+        },
+        {
+            "text": "TO_TEST:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "NOT_WORKING:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "PAST:",
+            "color": "#fff",
+            "backgroundColor": "black",
+            "overviewRulerColor": "black"
+        },
+        {
+            "text": "FUTURE:",
+            "color": "#ff0000",
+            "backgroundColor": "white",
+            "overviewRulerColor": "white"
+        },
+        {
+            "text": "IDEA:",
+            "color": "#fff",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "ISSUE:",
+            "color": "#fff",
+            "backgroundColor": "blue",
+            "overviewRulerColor": "blue"
+        },
+        {
+            "text": "TO_CHANGE:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        }
+    ],
+    "currenttodos.keywords": [
+        {
+            "text": "TODO:",
+            "color": "#FFF",
+            "backgroundColor": "#E97F02",
+            "overviewRulerColor": "rgba(233,127,2,0.75)"
+        },
+        {
+            "text": "FIXME:",
+            "color": "#FFF",
+            "backgroundColor": "#BD1550",
+            "overviewRulerColor": "rgba(189,21,80,0.75)"
+        },
+        {
+            "text": "NOTE:",
+            "color": "#FFF",
+            "backgroundColor": "#8A9B0F",
+            "overviewRulerColor": "rgba(138,155,15,0.75)"
+        },
+        {
+            "text": "DEBUG:",
+            "color": "#000",
+            "backgroundColor": "blue",
+            "overviewRulerColor": "blue"
+        },
+        {
+            "text": "DEV:",
+            "color": "#ff0000",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "FEATURE:",
+            "color": "#ff0000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "yellow"
+        },
+        {
+            "text": "BUG:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "NOT_IMPLEMENTED:",
+            "color": "#ff0000",
+            "backgroundColor": "orange",
+            "overviewRulerColor": "orange"
+        },
+        {
+            "text": "IMPLEMENTED:",
+            "color": "#00ff00",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "TEST:",
+            "color": "#ff0000",
+            "backgroundColor": "orange",
+            "overviewRulerColor": "orange"
+        },
+        {
+            "text": "TESTED:",
+            "color": "#000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "yellow"
+        },
+        {
+            "text": "TO_TEST:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "NOT_WORKING:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "PAST:",
+            "color": "#fff",
+            "backgroundColor": "black",
+            "overviewRulerColor": "black"
+        },
+        {
+            "text": "FUTURE:",
+            "color": "#ff0000",
+            "backgroundColor": "white",
+            "overviewRulerColor": "white"
+        },
+        {
+            "text": "IDEA:",
+            "color": "#fff",
+            "backgroundColor": "green",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "ISSUE:",
+            "color": "#fff",
+            "backgroundColor": "blue",
+            "overviewRulerColor": "blue"
+        },
+        {
+            "text": "TO_CHANGE:",
+            "color": "#fff",
+            "backgroundColor": "red",
+            "overviewRulerColor": "red"
+        }
+    ]
+}
