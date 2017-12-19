@@ -42,3 +42,13 @@
 
 **Link to work:**
 0. Nothing to link now / Link tomorrow to Django For Frontend Developers Project
+
+### Day 4: 19.12.2017
+
+**Today's Progress**: Tried think about my workflow and extensions to use in Ubuntu. Finished work on Django Project for Frontend Developers.
+
+**Thoughts:** Find the best workflow for work
+
+**Link to work:**
+1. <repo>/work/D3_D4/
+
