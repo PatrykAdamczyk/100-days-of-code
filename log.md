@@ -33,3 +33,12 @@
 
 **Link to work:**
 1. <repo>/work/D2/
+
+### Day 3: 18.12.2017
+
+**Today's Progress**: Tried think about my workflow and maybe makee work environment in ubuntu
+
+**Thoughts:** Find the best workflow
+
+**Link to work:**
+0. Nothing to link now / Link tomorrow to Django For Frontend Developers Project
