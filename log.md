@@ -52,3 +52,11 @@
 **Link to work:**
 1. <repo>/work/D3_D4/
 
+### Day 5: 20.12.2017
+
+**Today's Progress**: Repair some code in PAiP Web Build System
+
+**Thoughts:** Remember about some diffrences between OS next time.
+
+**Link to work:**
+2. [PAiP Web Build System - Today Progress](https://gitlab.com/paip-web/pwbs/commit/279d69ec21e79d28b8143b44d03787518fb62ee9)
