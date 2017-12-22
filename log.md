@@ -60,3 +60,12 @@
 
 **Link to work:**
 1. [PAiP Web Build System - Today Progress](https://gitlab.com/paip-web/pwbs/commit/279d69ec21e79d28b8143b44d03787518fb62ee9)
+
+### Day 6: 22.12.2017
+
+**Today's Progress**: Make new feature to PAiP Web Build System
+
+**Thoughts:** Test that release the best as I can
+
+**Link to work:**
+1. [PAiP Web Build System - Today Progress](https://gitlab.com/paip-web/pwbs/commit/2579c67977d26374de11ad4a0af8af1c11fdb3ca)
